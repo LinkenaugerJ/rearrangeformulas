@@ -1,0 +1,15 @@
+body{
+  background-color:#80ccff;
+}
+h1,h2{
+  text-align: center;
+}
+div{
+  display: inline;
+}
+.dformula{
+  text-align: center;
+}
+span{
+  text-align: center;
+}
