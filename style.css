@@ -1,0 +1,13 @@
+body{
+  background-color:#00cc99;
+}
+h1{
+  text-align: center;
+}
+a{
+  display: inline;
+  left: 50%;
+}
+.buttons{
+  text-align: center;
+}
